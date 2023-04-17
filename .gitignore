@@ -23,6 +23,8 @@ style.css.map
 
 # Error files
 yarn-error.log
+yarn.lock
+
 
 .vscode
 .eslintcache

@@ -8773,10 +8773,10 @@
   "resolved" "https://registry.npmmirror.com/react-refresh/-/react-refresh-0.11.0.tgz"
   "version" "0.11.0"
 
-"react-virtuoso@^4.1.0":
-  "integrity" "sha512-Vcq5WXn18PvPT55kdeGQ8BN3K95XyPe7hum8zG6Tx7g1CtUYVsQKN7fouMxBSy+XymEDB5ynGy8JWhuqyLLtPw=="
-  "resolved" "https://registry.npmmirror.com/react-virtuoso/-/react-virtuoso-4.1.0.tgz"
-  "version" "4.1.0"
+"react-virtuoso@^4.2.1":
+  "integrity" "sha512-IdbKabxa2Mq6f9m6BflvyzAbUHt0btCSq9rw2omcGAQt7ze80s2y6a2TvmSne1wLd0+75FgMGki2ru/dcAVmSQ=="
+  "resolved" "https://registry.npmmirror.com/react-virtuoso/-/react-virtuoso-4.2.1.tgz"
+  "version" "4.2.1"
 
 "react@^0.14.8 || ^15.0.1 || ^16.0.0 || ^17.0.1", "react@^16.8.0 || ^17.0.0 || ^18.0.0", "react@^17.0.2", "react@>= 16.14", "react@>=16 || >=17 || >= 18", "react@>=17.0.2", "react@17.0.2":
   "integrity" "sha512-gnhPt75i/dq/z3/6q/0asP78D0u592D5L1pd7M8P+dck6Fu/jJeL6iVVK23fptSUZj8Vjf++7wXA8UNclGQcbA=="
